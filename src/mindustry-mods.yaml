@@ -146,7 +146,7 @@ name: Ukrajinisator
 repo: Prosta4okua/Ukrajinisator
 category: translations
 ---
-author: ZkyLB
+author: macdowntwo
 name: Swarm-Mod
 about: Adds a new, and annoying flying unit.
 repo: ZkyLB/Swarm-Mod
@@ -196,7 +196,7 @@ repo: ZkyLB/3x3-and-4x4-walls
 icon: sprites/blocks/gigantic-copper-wall.png
 ---
 repo: ZkyLB/Mac-Mod
-icon: sprites/blocks/friend-wall.png
+icon: sprites/blocks/turrets/bolt-turret.png
 ---
 repo: Hecodie/Refined-Hecodium
 icon: sprites/items/rocket.png
